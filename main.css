@@ -1,0 +1,11 @@
+.title {
+    color: #e83458;
+    border-bottom: solid 1px black;
+    display: inline;
+}
+
+.description {
+    color: black;
+    padding-top: 10px;
+   
+}
